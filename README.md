@@ -1,9 +1,12 @@
 # CC-UFFS
-Respositorio para atividades do curso de CC/uffs
-Estrutura padrão
-- Semestre/
- ** Cadeira
-     *** Atividade
-  ** Cadeira
-     *** Atividade
-    .....
+
+Repositório para atividades do curso de Ciência da Computação na UFFS.
+
+## Estrutura padrão
+
+Semestre/  
+├── Cadeira/  
+│   └── Atividade/  
+├── Cadeira/  
+│   └── Atividade/  
+...
