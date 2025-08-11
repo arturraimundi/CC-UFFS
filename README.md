@@ -3,15 +3,11 @@
 Repositório para atividades do curso de Ciência da Computação na UFFS.
 
 ## Estrutura padrão
-Outros/
-├── conteudo/ 
-│     └── Projeto/
-Semestre/  
+
+Semestre */  
 ├── Cadeira/  
 │   └── Atividade/ 
-│   └── Projeto/
-├── Cadeira/  
-│   └── Atividade
-│         └── Questao/  
-│   └── Atividade/  
-...
+
+Outros/  
+├── Conteudo/  
+│      └── Projeto/ 
