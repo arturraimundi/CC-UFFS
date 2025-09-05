@@ -1,0 +1,29 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: rgb(53, 6, 6);
+}
+header{
+   margin: 0px;
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgb(29, 1, 1);
+}
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(29, 1, 1);
+}
+.title{
+    
+    padding: 240px 20px;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(29, 1, 1);
+}
