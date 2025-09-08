@@ -1,3 +1,3 @@
 # Resumo do Projeto
 
-Este projeto foi desenvolvido como parte do Trabalho 1 da disciplina de Introdução a Desenvolvimento Web. O objetivo principal é aplicar conceitos fundamentais de desenvolvimento web, incluindo HTML, CSS e JavaScript, para criar uma aplicação simples e funcional. O projeto busca proporcionar experiência prática na construção de páginas web, organização de arquivos e uso de boas práticas de programação.
+Este projeto foi desenvolvido como parte do Trabalho 1 da disciplina de Introdução a Desenvolvimento Web. O objetivo principal é aplicar conceitos fundamentais de desenvolvimento web, incluindo HTML, para criar uma aplicação simples e funcional. O projeto busca proporcionar experiência prática na construção de páginas web, organização de arquivos e uso de boas práticas de programação.
