@@ -171,12 +171,12 @@ nav a{
 .sidebar {
     position: fixed;
     right: 0;
-    top: 50%;
+    top: 3%;
     background-color: #11120d;
     padding: 2rem;
     border-radius: 10px 0 0 10px;
-    width: 300px;
-    font-size: xx-large;
+    width: 150px;
+    font-size: medium;
 }
 
 .sidebar h3 {
