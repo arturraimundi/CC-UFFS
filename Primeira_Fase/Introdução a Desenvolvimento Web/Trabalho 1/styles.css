@@ -67,14 +67,12 @@ nav a{
     gap: 2rem;
     max-width: 1800px;
     margin: 0 auto;
-    padding: 20px;
     text-align: justify;
-    font-size: x-large
 }
 
 .poster-img {
     flex: 1;
-    min-width: 800px; 
+    min-width: 80px; 
 }
 
 .poster-img img {
@@ -84,7 +82,7 @@ nav a{
 }
 
 .movie-info {
-    font-size: xx-large;
+    font-size: large;
     padding: 35px;
     background-color: #565449;
     border-radius: 50px;
