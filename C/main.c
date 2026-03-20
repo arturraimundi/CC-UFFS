@@ -6,7 +6,7 @@
 int main() {
     int w, h, c;
 
-    unsigned char *img = stbi_load("imagem.png", &w, &h, &c, 0);
+    unsigned char *img = stbi_load("imagem.jpg", &w, &h, &c, 0);
 
     if (!img) {
         printf("Erro ao carregar imagem\n");
