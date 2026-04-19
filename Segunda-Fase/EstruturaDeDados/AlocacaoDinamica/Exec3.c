@@ -1,12 +1,29 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define ROW 5
-#define COL 5
-int main(){
-   int *p;
-   p = (int*) malloc(sizeof(int));
-   *p = 22;
 
-   printf("conteudo %d \n", *p);
-   printf("endereco %d \n", p);
+
+
+typedef struct Node {
+    int data;
+    struct Node* next;
+} Node;
+
+Node* insertFim(Node* head, int valor) {
+    Node* novo = (Node*) malloc(sizeof(Node));
+    novo->data = valor;
+    novo->next = NULL;
+
+    if (head == NULL) return novo;
+
+    Node* atual = head;
+    while (atual->next != NULL) {
+        atual = atual->next;
+    }
+
+    atual->next = novo;
+    return head;
+}
+
+int main(){
+   
 }
