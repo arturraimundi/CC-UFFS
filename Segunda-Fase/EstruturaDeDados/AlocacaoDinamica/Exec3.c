@@ -23,7 +23,19 @@ Node* insertFim(Node* head, int valor) {
     atual->next = novo;
     return head;
 }
+//tarefa - ler uma lista linkada e criar uma nova lista com apenas os valores inteiros
 
 int main(){
-   
+ Node* lista = NULL;
+
+ insertFim(lista, 3);
+ insertFim(lista, 4);
+ insertFim(lista, 9);
+ insertFim(lista, 8);
+while(lista -> next != NULL){
+   Node* atual = lista; 
+   printf("%d", lista -> data);
+   lista = atual-> next;
+}
+
 }
